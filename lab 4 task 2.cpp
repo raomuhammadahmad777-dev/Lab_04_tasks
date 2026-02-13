@@ -18,6 +18,7 @@ class Satellite{
 			views++;
 			cout<<"Satellite id: "<<id<<endl;
 			cout<<"Satellite launch date: "<<date<<endl;
+			cout<<"Radius: "<<radius<<endl;
 			cout<<"Total number of views so far: "<<views<<endl;
 			cout<<"\n"<<endl;
 			
@@ -44,3 +45,4 @@ int main()
 		
 	return 0;
 }
+
